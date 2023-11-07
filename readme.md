@@ -1,4 +1,4 @@
-cThis repository contains a Hangman game implemented in Python. Hangman is a classic word-guessing game where one player thinks of a word and the other player tries to guess the word letter by letter. The game provides a fun and interactive way to challenge your vocabulary and logic skills.
+This repository contains a Hangman game implemented in Python. Hangman is a classic word-guessing game where one player thinks of a word and the other player tries to guess the word letter by letter. The game provides a fun and interactive way to challenge your vocabulary and logic skills.
 
 Features:
 
